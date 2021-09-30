@@ -32,7 +32,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(1, 'sshitech', 'sshitech');
+(1, 'hitech', 'hitech');
 
 --
 -- Indexes for dumped tables
